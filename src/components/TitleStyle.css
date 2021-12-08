@@ -1,0 +1,11 @@
+.titleComponent {
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 20px;
+}
+.Title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
