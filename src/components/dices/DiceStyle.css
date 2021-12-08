@@ -90,7 +90,8 @@
   border-radius: 20%;
 }
 .diceDot4 {
-  margin: 12px;
+  margin-top: 25px;
+  margin-bottom: 25px;
   background-color: black;
   width: 20px;
   height: 20px;

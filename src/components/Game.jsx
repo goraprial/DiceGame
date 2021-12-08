@@ -17,11 +17,11 @@ export const Game = () => {
     const handleReset = () =>{
         setResult(Math.floor(Math.random()*12)+1);
         setScore(0);
-        document.title = 'Score: ' + score;
     }
     const handleScore=()=>{
         setMessage('¡Bien hecho!');
         setScore(score+1);
+
     }
     
     useEffect(()=>{
